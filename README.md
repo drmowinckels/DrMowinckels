@@ -9,7 +9,7 @@ I am a Certified [Sorftware Carpentry](https://software-carpentry.org/) Instruct
 I work as a staff scientist at [the Center for Lifespan Changes in Brain and Cognition](www.oslobrains.no) at the University of Oslo.
 
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_icons=true&theme=transparent)](https://github.com/drmowinckels/github-readme-stats&show_icons=true&theme=transparent)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
