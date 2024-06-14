@@ -13,7 +13,6 @@ jobs:
         runs-on: ubuntu-latest
         env:
             GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-            RENV_PROFILE: readme
         steps:
             - uses: actions/checkout@v4
               with:
