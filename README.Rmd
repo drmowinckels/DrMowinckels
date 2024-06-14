@@ -1,0 +1,163 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-files/",
+  fig.retina = 3,
+  out.width = "100%"
+)
+```
+
+- Pronouns: She/Her
+- How to reach me: 
+  - mastodon: [@DrMowinckels@fosstodon.org](https://fosstodon.org/web/@Drmowinckels)
+  - website:  [DrMowinckels](https://drmowinckels.io/)
+
+I'm part of the [R-Ladies](https://rladies.org/) global team, where I particularly focus on the website development and maintenance, as well as the YouTube channel. 
+I am a Certified [Sorftware Carpentry](https://software-carpentry.org/) Instructor, where I am able to teach git, bash and R lessons, and a Certified [Posit Tidyverse instructor](https://education.rstudio.com/trainers/people/mowinckel+athanasia/).
+
+I work as a staff scientist at [the Center for Lifespan Changes in Brain and Cognition](www.oslobrains.no) at the University of Oslo.
+
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Skills
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">I have</b></td>
+    <td><b style="font-size:30px">I'm learning</b></td>
+    <td><b style="font-size:30px">In the memory banks</b></td>
+ </tr>
+ <tr>
+    <td>
+        <img src="https://skillicons.dev/icons?i=r,bash,git,sass,html,css,bootstrap,github,githubactions,md&perline=3" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,php,regex&perline=3" />
+      <br>
+      <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=matlab" />
+    </td>
+ </tr>
+</table>
+
+## IDE/GUI's I like
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+</p>
+
+## Blog posts
+
+```{r, echo = FALSE}
+posts <- list.files("website/content/blog", 
+           "^index.md",
+           recursive = TRUE, 
+           full.names = TRUE)
+posts <- lapply(posts, readLines)
+
+find_key <- function(x, key){
+  j <- lapply(x, function(x){
+    k <- grep(sprintf("^%s:", key), 
+            x, value = TRUE)
+    k <- gsub(sprintf("^%s: |'", key), "", k)
+    k[1] 
+  })
+  unlist(j)
+}
+
+postdf <- data.frame(
+  n = seq_along(posts),
+  draft = find_key(posts, "draft") |> 
+    grepl(pattern = "true", x = _),
+  date = as.Date(find_key(posts, "date")),
+  slug = find_key(posts, "slug") |> 
+    gsub('\\"', "", x = _),
+  title = find_key(posts, "title")
+) |> 
+  subset(subset = !draft)
+postdf$link <-  sprintf("[%s](https://drmowinckels.io/blog/%s)", 
+                  postdf$title,
+                  postdf$slug)
+
+today    <- Sys.Date()
+min_date <- min(postdf$date)
+last_post <- as.numeric(max(postdf$date) - today)
+
+postavg <- nrow(postdf)/as.numeric(today - min_date) * 30
+postavg <- sprintf("%0.2f", postavg)
+
+postbtw <- as.numeric(today - min_date) / nrow(postdf)
+postbtw <- sprintf("%s", round(postbtw, digits = 0))
+
+```
+
+
+🎉 [DrMowinckels.io](https://drmowinckels.io/) has **`r nrow(postdf)`** posts since **`r min_date`**!
+
+📅 That's a post roughly every **`r postbtw`** days, or about **`r postavg`** posts per month, since `r min_date`.
+
+✍️ The last post was published **`r last_post`** days ago (`r tail(postdf, 1)$link`).
+
+😉 I'll post as often as I am able, and hope people find it interesting. I'd love your feedback in the comments!
+
+```{r 'plot', echo = FALSE,  fig.width=10, fig.height=2.5}
+library(lattice)
+
+postdf$ones <- 1
+
+# Assuming postdf is loaded and has a 'date' column
+xyplot(ones ~ date, data = postdf,
+       type = 'p',
+       pch = "|",  
+       cex = 5,   
+       col = "cyan3",
+       xlab = "",
+       ylab = "",
+       main = "Published posts",
+       scales = list(x = list(cex = 1.4), y = list(draw = FALSE)),
+       strip = FALSE,  # Removes strip labels
+       axis.line = list(col = "transparent"),
+       layout = c(1, 1),  # Single panel
+       par.settings = list(
+         strip.border = list(col = "transparent"), #making the border transparent
+         axis.line = list(col = "transparent") #making the axes transparent
+       )
+      )
+
+```
+
+<details><summary>📂 Click to expand a full list of posts</summary>
+
+```{r posts-table, results='asis', echo = FALSE}
+data.frame(
+  Date = rev(postdf$date),
+  Title = rev(postdf$link)
+) |> 
+  knitr::kable()
+```
+</details>
+
+
+## My down time
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+</p>
+
+_Updated `r Sys.time()`_
