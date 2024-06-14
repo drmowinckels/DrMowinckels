@@ -3,7 +3,7 @@ on:
     schedule:
       - cron: '0 0 * * WED'
   
-name: render-rmarkdown
+name: Render README
   
 jobs:
     render-rmarkdown:
