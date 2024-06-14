@@ -13,9 +13,8 @@ jobs:
             RENV_PROFILE: readme
         steps:
             - uses: actions/checkout@v4
-            - name: Get website repo
-              run: |
-                git clone git@github.com:drmowinckels/drmowinckels.github.io.git website
+              with:
+                submodules: true
             - name: Install cURL Headers
               run: |
                 sudo apt-get update
