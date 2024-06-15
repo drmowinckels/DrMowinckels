@@ -29,7 +29,7 @@ I work as a staff scientist at [the Center for Lifespan Changes in Brain and Cog
 
 
 ## Skills
-<table border="0">
+<table border="1px solid black" style="margin: 5px">
  <tr>
     <td><b style="font-size:30px">I have</b></td>
     <td><b style="font-size:30px">I'm learning</b></td>

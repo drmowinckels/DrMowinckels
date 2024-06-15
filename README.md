@@ -22,7 +22,7 @@ stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_ico
 
 ## Skills
 
-<table border="0">
+<table border="1px solid black" style="margin: 5px">
 <tr>
 <td>
 <b style="font-size:30px">I have</b>
