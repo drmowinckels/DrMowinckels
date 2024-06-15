@@ -119,7 +119,10 @@ library(lattice)
 postdf$ones <- 1
 
 # Assuming postdf is loaded and has a 'date' column
-xyplot(ones ~ date, data = postdf,
+trellis.par.set(background = list(col="transparent"))
+
+xyplot(ones ~ date, 
+       data = postdf,
        type = 'p',
        pch = "|",  
        cex = 5,   
