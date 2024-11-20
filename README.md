@@ -63,10 +63,10 @@ stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_ico
 🎉 [DrMowinckels.io](https://drmowinckels.io/) has **33** posts since
 **2018-03-08**!
 
-📅 That’s a post roughly every **74** days, or about **0.41** posts per
+📅 That’s a post roughly every **74** days, or about **0.40** posts per
 month, since 2018-03-08.
 
-✍️ The last post was published **165** days ago ([Customise your R
+✍️ The last post was published **172** days ago ([Customise your R
 startup message](https://drmowinckels.io/blog/rproject)).
 
 😉 I’ll post as often as I am able, and hope people find it interesting.
@@ -127,4 +127,4 @@ I’d love your feedback in the comments!
 <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
 
-*Updated 2024-11-13 01:14:58.182407*
+*Updated 2024-11-20 01:18:11.252255*
