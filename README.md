@@ -37,6 +37,8 @@ stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_ico
 <tr>
 <td>
 <img src="https://skillicons.dev/icons?i=r,bash,git,sass,html,css,bootstrap,github,githubactions,md&perline=3" />
+[![GitHub
+Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 </td>
 <td>
 <img src="https://skillicons.dev/icons?i=js,php,regex&perline=3" /> <br>
@@ -53,6 +55,7 @@ stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_ico
 ## IDE/GUI’s I like
 
 <p align="center">
+<img src="https://img.shields.io/badge/-positron-61DAFB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
@@ -60,14 +63,18 @@ stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_ico
 
 ## Blog posts
 
-🎉 [DrMowinckels.io](https://drmowinckels.io/) has **33** posts since
+To list files in a specific folder of a public GitHub repository using
+R, you can utilize the GitHub API. Here’s a concise example:
+
+🎉 [DrMowinckels.io](https://drmowinckels.io/) has **42** posts since
 **2018-03-08**!
 
-📅 That’s a post roughly every **78** days, or about **0.39** posts per
+📅 That’s a post roughly every **61** days, or about **0.49** posts per
 month, since 2018-03-08.
 
-✍️ The last post was published **284** days ago ([Customise your R
-startup message](https://drmowinckels.io/blog/rproject)).
+✍️ The last post was published **15** days ago ([Harness Local LLMs and
+GitHub Copilot for Enhanced R Package
+Development](https://drmowinckels.io/blog/ollama)).
 
 😉 I’ll post as often as I am able, and hope people find it interesting.
 I’d love your feedback in the comments!
@@ -81,9 +88,18 @@ I’d love your feedback in the comments!
 
 | Date       | Title                                                                                                                                                                                    |
 |:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2025-03-03 | [Harness Local LLMs and GitHub Copilot for Enhanced R Package Development](https://drmowinckels.io/blog/ollama)                                                                          |
+| 2025-02-01 | [Cracking the LinkedIn API through R](https://drmowinckels.io/blog/linkedin-api)                                                                                                         |
+| 2025-01-01 | [The difficult year](https://drmowinckels.io/blog/the-difficult-year)                                                                                                                    |
+| 2024-12-02 | [Posting to Bluesky from R](https://drmowinckels.io/blog/bluesky)                                                                                                                        |
+| 2024-11-01 | [Reading in multiple files without loops](https://drmowinckels.io/blog/lapply-files)                                                                                                     |
+| 2024-10-07 | [Creating post summary with AI from Hugging Face](https://drmowinckels.io/blog/ai-blog-summary)                                                                                          |
+| 2024-09-06 | [Making your blog FAIR](https://drmowinckels.io/blog/fair-blog)                                                                                                                          |
+| 2024-08-01 | [Positron IDE - A new IDE for data science](https://drmowinckels.io/blog/positron)                                                                                                       |
+| 2024-07-01 | [Improving your GitHub Profile](https://drmowinckels.io/blog/github-profile)                                                                                                             |
 | 2024-06-01 | [Customise your R startup message](https://drmowinckels.io/blog/rproject)                                                                                                                |
 | 2024-05-01 | [The IDEs I use](https://drmowinckels.io/blog/ide)                                                                                                                                       |
-| 2024-04-01 | [Too much git cleaning](https://drmowinckels.io/blog/2024/git-clean-woes)                                                                                                                |
+| 2024-04-01 | [Too much git cleaning](https://drmowinckels.io/blog/git-clean-woes)                                                                                                                     |
 | 2024-03-01 | [Setting up a Freesurfer LMM through R](https://drmowinckels.io/blog/freesurfer-lmm-r)                                                                                                   |
 | 2024-02-01 | [Teaching you - teaching me](https://drmowinckels.io/blog/teaching-unlocks)                                                                                                              |
 | 2024-01-01 | [New year, New blog](https://drmowinckels.io/blog/newyear-newblog)                                                                                                                       |
@@ -127,4 +143,4 @@ I’d love your feedback in the comments!
 <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
 
-*Updated 2025-03-12 01:19:12.518589*
+*Updated 2025-03-18 20:00:49.33429*
