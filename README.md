@@ -66,14 +66,14 @@ Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&
 To list files in a specific folder of a public GitHub repository using
 R, you can utilize the GitHub API. Here’s a concise example:
 
-🎉 [DrMowinckels.io](https://drmowinckels.io/) has **43** posts since
+🎉 [DrMowinckels.io](https://drmowinckels.io/) has **44** posts since
 **2018-03-08**!
 
 📅 That’s a post roughly every **60** days, or about **0.50** posts per
 month, since 2018-03-08.
 
-✍️ The last post was published **8** days ago ([“Positron: current joys
-and pains”](https://drmowinckels.io/blog/positron-debugging)).
+✍️ The last post was published **20** days ago ([A year with Visible
+Long-Covid Tracking](https://drmowinckels.io/blog/visible)).
 
 😉 I’ll post as often as I am able, and hope people find it interesting.
 I’d love your feedback in the comments!
@@ -87,6 +87,7 @@ I’d love your feedback in the comments!
 
 | Date       | Title                                                                                                                                                                                    |
 |:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2025-05-01 | [A year with Visible Long-Covid Tracking](https://drmowinckels.io/blog/visible)                                                                                                          |
 | 2025-04-01 | [“Positron: current joys and pains”](https://drmowinckels.io/blog/positron-debugging)                                                                                                    |
 | 2025-03-03 | [Harness Local LLMs and GitHub Copilot for Enhanced R Package Development](https://drmowinckels.io/blog/ollama)                                                                          |
 | 2025-02-01 | [Cracking the LinkedIn API through R](https://drmowinckels.io/blog/linkedin-api)                                                                                                         |
@@ -143,4 +144,4 @@ I’d love your feedback in the comments!
 <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
 
-*Updated 2025-04-09 01:21:40.884709*
+*Updated 2025-05-21 11:07:00.731531*
