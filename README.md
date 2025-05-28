@@ -72,7 +72,7 @@ R, you can utilize the GitHub API. Here’s a concise example:
 📅 That’s a post roughly every **60** days, or about **0.50** posts per
 month, since 2018-03-08.
 
-✍️ The last post was published **20** days ago ([A year with Visible
+✍️ The last post was published **27** days ago ([A year with Visible
 Long-Covid Tracking](https://drmowinckels.io/blog/visible)).
 
 😉 I’ll post as often as I am able, and hope people find it interesting.
@@ -144,4 +144,4 @@ I’d love your feedback in the comments!
 <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
 
-*Updated 2025-05-21 11:07:00.731531*
+*Updated 2025-05-28 01:28:28.869536*
