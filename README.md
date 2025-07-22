@@ -37,11 +37,9 @@ stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_ico
 <tr>
 <td>
 <img src="https://skillicons.dev/icons?i=r,bash,git,sass,html,css,bootstrap,github,githubactions,md&perline=3" />
-[![GitHub
-Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=js,php,regex&perline=3" /> <br>
+<img src="https://skillicons.dev/icons?i=js,regex&perline=3" /> <br>
 <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
@@ -70,7 +68,7 @@ R, you can utilize the GitHub API. Here’s a concise example:
 **NA**!
 
 📅 That’s a post roughly every **NA** days, or about **NA** posts per
-month, since NA.
+month.
 
 ✍️ The last post was published **NA** days ago ([“Decoding OAuth2 M2M
 with httr2: Client Setup & API
@@ -147,4 +145,4 @@ I’d love your feedback in the comments!
 <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
 
-*Updated 2025-07-16 01:42:38.971128*
+*Updated 2025-07-22 08:47:32.383096*
