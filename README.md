@@ -64,15 +64,14 @@ stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_ico
 To list files in a specific folder of a public GitHub repository using
 R, you can utilize the GitHub API. Here’s a concise example:
 
-🎉 [DrMowinckels.io](https://drmowinckels.io/) has **48** posts since
+🎉 [DrMowinckels.io](https://drmowinckels.io/) has **49** posts since
 **NA**!
 
 📅 That’s a post roughly every **NA** days, or about **NA** posts per
 month.
 
-✍️ The last post was published **NA** days ago ([“Hugo modules vs. Git
-submodules: manage your website more
-easily”](https://drmowinckels.io/blog/submodules)).
+✍️ The last post was published **NA** days ago ([Mapply: When You Need
+to Iterate Over Multiple Inputs](https://drmowinckels.io/blog/mapply)).
 
 😉 I’ll post as often as I am able, and hope people find it interesting.
 I’d love your feedback in the comments!
@@ -86,6 +85,7 @@ I’d love your feedback in the comments!
 
 | Date       | Title                                                                                                                                                                                    |
 |:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2025-10-01 | [Mapply: When You Need to Iterate Over Multiple Inputs](https://drmowinckels.io/blog/mapply)                                                                                             |
 | 2025-09-02 | [“Hugo modules vs. Git submodules: manage your website more easily”](https://drmowinckels.io/blog/submodules)                                                                            |
 | 2025-08-01 | [Automate LinkedIn Carousels with R and Gemini](https://drmowinckels.io/blog/linkedin_gemini)                                                                                            |
 | NA         | [“Decoding OAuth2 M2M with httr2: Client Setup & API Testing”](https://drmowinckels.io/blog/httr2_client)                                                                                |
@@ -147,4 +147,4 @@ I’d love your feedback in the comments!
 <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
 
-*Updated 2025-10-01 01:29:09.475649*
+*Updated 2025-10-08 01:21:38.279463*
