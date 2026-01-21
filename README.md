@@ -64,15 +64,14 @@ stats](https://github-readme-stats.vercel.app/api?username=drmowinckels&show_ico
 To list files in a specific folder of a public GitHub repository using
 R, you can utilize the GitHub API. Here’s a concise example:
 
-🎉 [DrMowinckels.io](https://drmowinckels.io/) has **52** posts since
+🎉 [DrMowinckels.io](https://drmowinckels.io/) has **53** posts since
 **NA**!
 
 📅 That’s a post roughly every **NA** days, or about **NA** posts per
 month.
 
-✍️ The last post was published **NA** days ago ([R Package Development
-Advent Calendar 2025: A Complete
-Journey](https://drmowinckels.io/blog/rpackage-dev-calendar)).
+✍️ The last post was published **NA** days ago ([“Year in review —
+2025”](https://drmowinckels.io/blog/year-in-review-2025)).
 
 😉 I’ll post as often as I am able, and hope people find it interesting.
 I’d love your feedback in the comments!
@@ -86,6 +85,7 @@ I’d love your feedback in the comments!
 
 | Date       | Title                                                                                                                                                                                    |
 |:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NA         | [“Year in review — 2025”](https://drmowinckels.io/blog/year-in-review-2025)                                                                                                              |
 | 2025-12-28 | [R Package Development Advent Calendar 2025: A Complete Journey](https://drmowinckels.io/blog/rpackage-dev-calendar)                                                                     |
 | 2025-11-01 | [Mastering Apply: From Matrices to Multidimensional Neuroimaging Data](https://drmowinckels.io/blog/apply-multidimensional)                                                              |
 | 2025-10-31 | [Neon Ghosts with ggplot2](https://drmowinckels.io/blog/neon-ghosts)                                                                                                                     |
@@ -151,4 +151,4 @@ I’d love your feedback in the comments!
 <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
 
-*Updated 2026-01-14 01:47:52.558747*
+*Updated 2026-01-21 01:46:47.558189*
