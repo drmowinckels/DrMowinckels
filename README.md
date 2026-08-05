@@ -88,9 +88,9 @@ R, you can utilize the GitHub API. Here’s a concise example:
 📅 That’s a post roughly every **NA** days, or about **NA** posts per
 month.
 
-✍️ The last post was published **NA** days ago ([Outside My Stack:
-Building Entracte and Cairn With
-Claude](https://drmowinckels.io/blog/outside-my-stack)).
+✍️ The last post was published **NA** days ago ([A Rust Crate, an R
+Package, and One Very Stubborn Windows
+Crash](https://drmowinckels.io/blog/rust-in-r-rambutan)).
 
 😉 I’ll post as often as I am able, and hope people find it interesting.
 I’d love your feedback in the comments!
@@ -106,7 +106,7 @@ I’d love your feedback in the comments!
 
 | Date | Title |
 |:---|:---|
-| 2026-07-01 | [Outside My Stack: Building Entracte and Cairn With Claude](https://drmowinckels.io/blog/outside-my-stack) |
+| 2026-08-01 | [A Rust Crate, an R Package, and One Very Stubborn Windows Crash](https://drmowinckels.io/blog/rust-in-r-rambutan) |
 | 2026-06-01 | [Tidier Quarto Figures in Hugo: a Tiny Lua Filter](https://drmowinckels.io/blog/quarto-hugo-figures) |
 | 2026-05-04 | [Two Years of Visible: New Angles on the Long Covid Data](https://drmowinckels.io/blog/visible-year-two) |
 | 2026-04-01 | [Norways New ME/CFS Guidelines Got It Backwards](https://drmowinckels.io/blog/mecfs-guidelines-norway) |
@@ -179,4 +179,4 @@ I’d love your feedback in the comments!
 <img src="https://camo.githubusercontent.com/0ff8e3b5f017aed3d006a903cb50b7d7d6fd1fa6bf8e1c020270c6c7c76d0870/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c652b545626636f6c6f723d303030303030266c6f676f3d4170706c652b5456266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </p>
 
-*Updated 2026-07-29 02:31:27.035738*
+*Updated 2026-08-05 02:25:07.758328*
